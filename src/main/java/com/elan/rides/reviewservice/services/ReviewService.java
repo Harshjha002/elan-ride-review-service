@@ -33,5 +33,6 @@ public class ReviewService implements CommandLineRunner {
             System.out.println(r.getContent());
         }
 
+
     }
 }
